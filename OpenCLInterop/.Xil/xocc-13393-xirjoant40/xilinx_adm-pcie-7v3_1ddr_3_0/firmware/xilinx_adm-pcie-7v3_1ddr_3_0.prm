@@ -1,0 +1,11 @@
+===================================
+Configuration Memory information
+===================================
+File Format        MCS
+Interface          BPIX16
+Size               1024M
+Start Address      0x00000000
+End Address        0x3FFFFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x0091D5CB    May 25 20:38:27 2016    /proj/isi_group/ipeng/juliank/RDI_juliank_rodin/HEAD/data/sdaccel/board_support/alpha_data/7v3/7v3_1ddr_3.0/.Xil/Vivado-4000-xcolbl6038/dsa/xilinx_adm-pcie-7v3_1ddr_3_0.bit
